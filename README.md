@@ -2,6 +2,10 @@ Low-Dose Radiation Therapy and CAR T-Cell Efficacy in CD19+ Lymphoma
 
 This project investigates the impact of low-dose radiation therapy (RT) on CAR T-cell efficacy in a mouse model of CD19+ lymphoma, focusing on gene expression changes in irradiated (IR) vs. non-irradiated (Non-IR) tumors and lymph nodes at 24 hours and 7 days. The goal is to uncover immune pathways and tumor responses that can inform personalized treatments for hematologic malignancies.
 
+
+Data Avaible at: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE281695
+
+
 Objectives
 Gene Expression Analysis: Investigate changes in gene expression between IR and Non-IR tumors and lymph nodes at two time points.
 Human Precision Medicine: Identify cross-species gene homologs to guide personalized therapies, optimize dosing, and improve outcomes in hematologic cancers.
